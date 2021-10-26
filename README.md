@@ -3,7 +3,7 @@
 
 In These repository one can start Programming from basic and learn
 to build logic yourself .
-some of the popular Programmes in these repositories are ,
+some of the popular Programmes in these repositories are (Assignment_wise),
 
 1. Swapping ,
 2. Displaying Calender ,converting (kilometers to miles , Celsius to Fahrenheit), quadratic equation ,
